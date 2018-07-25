@@ -1,0 +1,13 @@
+resource_group_name=value
+application_id=value
+environment=test
+ApplicationCode=value
+business_unit=value
+dr_class=value
+security_tier=value
+database=none
+host_name=value
+puppet_managed=value
+saml_domain=na.ko.com
+migration_method=Azure Site Recovery
+status=live
